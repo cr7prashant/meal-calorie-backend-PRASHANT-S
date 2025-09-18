@@ -1,5 +1,3 @@
-Here’s a clean `README.md` for the **root of your repo** that explains the structure and points users to the frontend and backend setup guides:
-
 ```markdown
 # Meal Calorie App
 
